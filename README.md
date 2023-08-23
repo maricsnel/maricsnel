@@ -1,6 +1,4 @@
-Data Analyst in the Making | Passionate about Turning Data into Insights
-
-📊 Aspiring Data Analyst | 🧠 Lifelong Learner | 📈 Analytics Enthusiast
+📊 Data Analyst | 🧠 Lifelong Learner | 📈 Analytics Enthusiast
 
 Hello there! I'm Maric Snel, and I'm thrilled to embark on a transformative journey from my previous role as a Workday Data Migration Consultant at PwC to the captivating realm of data analysis. My career pivot is fueled by an unquenchable curiosity for uncovering stories hidden within data and translating them into actionable insights.
 
